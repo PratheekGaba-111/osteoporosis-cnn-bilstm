@@ -1,0 +1,7 @@
+dataset/
+*.h5
+*.ckpt
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
