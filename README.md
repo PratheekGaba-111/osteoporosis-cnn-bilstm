@@ -34,7 +34,7 @@ Osteoporosis-cnn-bilstm/
 - Utilizes a **CNN-BiLSTM** hybrid model for improved accuracy.
 - Trained on a dataset of 2,000 knee X-ray images.
 - Achieves ~94% classification accuracy.
-- Handles preprocessing, training, evaluation, and prediction in a single notebook.
+- Handles preprocessing, training, evaluation, and prediction in a single notebook. 
 
 
 ---
